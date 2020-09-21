@@ -6,7 +6,7 @@ The Equilibrium Model of Galaxy Formation is a semi-analytic model of Galaxy For
 Code and Instructions
 ---------------------
 
--   The code takes in input parameters, including the halo mass and generates the growth history of a galaxy including the evolution of its star formation rate, metallicity and gas fraction.
+-   The code takes in input parameters, including the halo mass and generates the growth history of a galaxy including the evolution of its star formation rate, metallicity and gas fraction in a file called *outputs.txt*
 
 -   **equilfuncs.R** contains functions required for running the equilibrum model.
 
